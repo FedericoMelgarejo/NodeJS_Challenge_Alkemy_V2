@@ -1,5 +1,5 @@
 # DisneyAPI
-### technical challenge developed in nodejs with express and mysql to alkemy
+### technical challenge developed in nodejs with express and mysql to aplly for alkemy's acceleration
 [pdf]:./Challenge_Backend_Node.pdf
 #### [Challenge][pdf]
 
